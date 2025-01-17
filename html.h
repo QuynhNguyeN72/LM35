@@ -89,7 +89,7 @@ const char html_page[] PROGMEM = R"rawString(
     <header>
 
         <div id = "logo">
-            <img src="/FETEL.HCMUS.png" alt="FETEL-Logo" width="30%" height="20%">
+            <img src="https://raw.githubusercontent.com/QuynhNguyeN72/LM35/main/FETEL.HCMUS.png" alt="FETEL-Logo" width="30%" height="20%">
 
             <ul class = "infor">
                 <h1>Thành viên nhóm</h1>
@@ -100,9 +100,7 @@ const char html_page[] PROGMEM = R"rawString(
 
         <div class = "headbar">
             <ul class = "home">
-                <li><a href="./lm35.html">Home</a></li>
-                <li><a href="https://how2electronics.com/lm35-temperature-sensor-with-esp32-web-server/">Thông tin project</a></li>
-                <li><a href="https://github.com/QuynhNguyeN72">Source code</a></li>
+                <li><a href="https://github.com/QuynhNguyeN72/LM35">Source code</a></li>
             </ul>
         </div>
 
